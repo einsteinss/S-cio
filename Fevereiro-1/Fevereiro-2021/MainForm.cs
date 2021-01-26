@@ -29,5 +29,13 @@ namespace Fevereiro_2021
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		void Button1Click(object sender, EventArgs e)
+		{
+			
+		}
+		void FecharClick(object sender, EventArgs e)
+		{
+			this.Close();
+		}
 	}
 }
