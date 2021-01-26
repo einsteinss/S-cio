@@ -1,0 +1,8 @@
+E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\bin\Debug\Fevereiro-2021.exe.config
+E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\bin\Debug\Fevereiro-2021.exe
+E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\bin\Debug\Fevereiro-2021.pdb
+E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\obj\Debug\Fevereiro-2021.csprojResolveAssemblyReference.cache
+E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\obj\Debug\Fevereiro_2021.MainForm.resources
+E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\obj\Debug\Fevereiro-2021.csproj.GenerateResource.Cache
+E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\obj\Debug\Fevereiro-2021.exe
+E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\obj\Debug\Fevereiro-2021.pdb
