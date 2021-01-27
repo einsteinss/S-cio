@@ -60,11 +60,10 @@ namespace Fevereiro_2021
 			this.fechar.BackColor = System.Drawing.Color.Transparent;
 			this.fechar.Font = new System.Drawing.Font("Harrington", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.fechar.ForeColor = System.Drawing.Color.DarkRed;
-			this.fechar.Location = new System.Drawing.Point(576, 227);
+			this.fechar.Location = new System.Drawing.Point(574, 236);
 			this.fechar.Name = "fechar";
-			this.fechar.Size = new System.Drawing.Size(28, 32);
+			this.fechar.Size = new System.Drawing.Size(28, 24);
 			this.fechar.TabIndex = 1;
-			this.fechar.Text = "X";
 			this.fechar.Click += new System.EventHandler(this.FecharClick);
 			// 
 			// MainForm

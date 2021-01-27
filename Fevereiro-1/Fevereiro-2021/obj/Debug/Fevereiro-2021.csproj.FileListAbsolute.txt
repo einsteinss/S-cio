@@ -6,3 +6,4 @@ E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\obj\Debug\Fevereiro_2021.MainForm
 E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\obj\Debug\Fevereiro-2021.csproj.GenerateResource.Cache
 E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\obj\Debug\Fevereiro-2021.exe
 E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\obj\Debug\Fevereiro-2021.pdb
+E:\9-Github\c-sharp\Fevereiro-1\Fevereiro-2021\obj\Debug\Fevereiro_2021.Utilizador.resources
