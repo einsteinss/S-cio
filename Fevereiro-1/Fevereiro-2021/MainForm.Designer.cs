@@ -14,7 +14,6 @@ namespace Fevereiro_2021
 		/// Designer variable used to keep track of non-visual components.
 		/// </summary>
 		private System.ComponentModel.IContainer components = null;
-		private System.Windows.Forms.Button button1;
 		private System.Windows.Forms.Label fechar;
 		
 		/// <summary>
@@ -39,21 +38,8 @@ namespace Fevereiro_2021
 		private void InitializeComponent()
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
-			this.button1 = new System.Windows.Forms.Button();
 			this.fechar = new System.Windows.Forms.Label();
 			this.SuspendLayout();
-			// 
-			// button1
-			// 
-			this.button1.BackColor = System.Drawing.Color.Transparent;
-			this.button1.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button1.Location = new System.Drawing.Point(239, 32);
-			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(145, 40);
-			this.button1.TabIndex = 0;
-			this.button1.Text = "Iniciar Socia";
-			this.button1.UseVisualStyleBackColor = false;
-			this.button1.Click += new System.EventHandler(this.Button1Click);
 			// 
 			// fechar
 			// 
@@ -74,13 +60,13 @@ namespace Fevereiro_2021
 			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
 			this.ClientSize = new System.Drawing.Size(607, 260);
 			this.Controls.Add(this.fechar);
-			this.Controls.Add(this.button1);
 			this.DoubleBuffered = true;
 			this.ForeColor = System.Drawing.Color.Black;
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
 			this.Name = "MainForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Fevereiro-2021";
+			this.Click += new System.EventHandler(this.MainFormClick);
 			this.ResumeLayout(false);
 
 		}

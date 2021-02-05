@@ -28,9 +28,9 @@ namespace Fevereiro_2021
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
-		void UtilizadorLoad(object sender, EventArgs e)
+		void Button3Click(object sender, EventArgs e)
 		{
-	
+			Application.Exit();
 		}
 	}
 }

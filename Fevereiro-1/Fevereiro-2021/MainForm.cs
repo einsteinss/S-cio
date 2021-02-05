@@ -29,13 +29,15 @@ namespace Fevereiro_2021
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
-		void Button1Click(object sender, EventArgs e)
-		{
-			
-		}
 		void FecharClick(object sender, EventArgs e)
 		{
 			this.Close();
+		}
+		void MainFormClick(object sender, EventArgs e)
+		{
+			Utilizador SS = new Utilizador();
+			SS.Show();
+			this.Hide();
 		}
 	}
 }
